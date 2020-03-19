@@ -2,5 +2,5 @@
 
 ## Current
 
-- (Google technical writing)[https://developers.google.com/tech-writing/one]
+- [Google technical writing](https://developers.google.com/tech-writing/one)
 
